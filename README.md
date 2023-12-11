@@ -1,4 +1,4 @@
-**IMDB Movies and Studios Analysis**
+**Blockbuster Insights: Analysis of Top Movies and Genres**
 
 
 ![img](Images/imdb.jpg)
