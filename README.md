@@ -46,5 +46,9 @@ Used data from the imdb and csv files using descriptive analysis providing a use
 
 
 Making the first original movie based off of the top three genres namemly- Action,Adventure,Sci-Fi - is recommended to yield the most profitable results
+
+
 The recommended production budget is approximately 214,060,000$ 
+
+
 Hiring of directors such as Michael Bay,Christopher Nolan,Sam Mendes,Rob Marshall,J.A. Bayona,Chris Buck,Jennifer Lee,Kyle Balda,Eric Guillon,Ryan Fleck,Anna Boden,Anthony Russo,Joe Russo and Joss Whedon is recommended 
