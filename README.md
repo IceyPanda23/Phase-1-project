@@ -1,13 +1,13 @@
 **IMDB Movies and Studios Analysis**
 
 
-![img](Images\imdb.jpg)
+![img](Images/imdb.jpg)
 
 
 **<u>Overview:</u>**
 
 
-![img](Images\Director.jpg)
+![img](Images/Director.jpg)
 
 
 
@@ -32,13 +32,13 @@ Used data from the imdb and csv files using descriptive analysis providing a use
 **Results:**
 
 
-![img](Images\genre_graph.png)
+![img](Images/genre_graph.png)
 
 
-![img](Images\production_budget_graph.png)
+![img](Images/production_budget_graph.png)
 
 
-![img](Images\revenue_graph.png)
+![img](Images/revenue_graph.png)
 
 
 
