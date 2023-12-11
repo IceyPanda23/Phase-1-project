@@ -1,7 +1,15 @@
 **IMDB Movies and Studios Analysis**
 
 
+![img](Images\imdb.jpg)
+
+
 **<u>Overview:</u>**
+
+
+![img](Images\Director.jpg)
+
+
 
 
 This data analysis study project aims to explore the fascinating world of film to learn more about the domain of well-known movies and their commercial success. It goes beyond simple popularity to look at the box office performance patterns of blockbuster movies in an effort to identify the elements that led to their enormous success in regards to both its spread and revenues both locally and internationally.Descriptive analysis on the movies' domestic and foreign gross revenues and each studio that made the movies through data primarily fetched from IMDB
@@ -24,10 +32,19 @@ Used data from the imdb and csv files using descriptive analysis providing a use
 **Results:**
 
 
-![Alt text](image.png)
-![Alt text](image-1.png)
+![Alt text](Images\genre_graph.png)
+
+
+![Alt text](Images\production_budget_graph.png)
+
+
+![Alt text](Images\revenue_graph.png)
+
+
 
 **Conclusions:**
+
+![img](Images/movie-film-jpg.jpg)
 
 
 Making the first original movie based off of the top three genres namemly- Action,Adventure,Sci-Fi - is recommended to yield the most profitable results
