@@ -7,14 +7,12 @@
 **<u>Overview:</u>**
 
 
-![img](Images/Director.jpg)
-
-
-
-
 This data analysis study project aims to explore the fascinating world of film to learn more about the domain of well-known movies and their commercial success. It goes beyond simple popularity to look at the box office performance patterns of blockbuster movies in an effort to identify the elements that led to their enormous success in regards to both its spread and revenues both locally and internationally.Descriptive analysis on the movies' domestic and foreign gross revenues and each studio that made the movies through data primarily fetched from IMDB
 
 **Business Understanding:**
+
+
+![img](Images/Director.jpg)
 
 
 Microsoft may be able to get a considerable amount of revenue and popularity from their first movie.This may in turn create a snowballing effect thus giving it a much larger platform to make even better movies both in terms of quality and quantity.They may be able to bring up a TV Show if the first movie makes a major hit by examining the most recent developments in the movie business, paying particular attention to profitable box office results and determine the themes, genres, and features that appeal to viewers and generate high revenues at the box office including prominent directors that make successful movies.
