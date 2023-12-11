@@ -15,19 +15,22 @@ This data analysis study project aims to explore the fascinating world of film t
 ![img](Images/Director.jpg)
 
 
-Microsoft may be able to get a considerable amount of revenue and popularity from their first movie.This may in turn create a snowballing effect thus giving it a much larger platform to make even better movies both in terms of quality and quantity.They may be able to bring up a TV Show if the first movie makes a major hit by examining the most recent developments in the movie business, paying particular attention to profitable box office results and determine the themes, genres, and features that appeal to viewers and generate high revenues at the box office including prominent directors that make successful movies.
+Microsoft may be able to get a considerable amount of revenue and popularity from their first movie.This may in turn create a snowballing effect thus giving it a much larger platform to make even better movies both in terms of quality and quantity.This is done by paying particular attention to profitable box office results and determine the themes, genres, and features that appeal to viewers and generate high revenues at the box office while also looking for prominent directors that have a history of making successful movies.
+
 
 **Data Understanding:**
 
 
 Some of the datasources used are primarily from the imdb which is the internet movies database containing tables filled with movies and details of said movies ie ratings and directors.Explored potential secondary sources of data such as box office movies and its revenues that contain both the domestic and foreign gross revenues earned by said movies.
 
+
 **Data Preparation:**
 
 
 Used data from the imdb and csv files using descriptive analysis providing a useful overview on the kinds of movies recommended for an initial start and a profitable production and the recommended budget
 
-**Results:**
+
+**Data Analysis:**
 
 
 ![img](Images/genre_graph.png)
