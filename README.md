@@ -32,13 +32,13 @@ Used data from the imdb and csv files using descriptive analysis providing a use
 **Results:**
 
 
-![Alt text](Images\genre_graph.png)
+![img](Images\genre_graph.png)
 
 
-![Alt text](Images\production_budget_graph.png)
+![img](Images\production_budget_graph.png)
 
 
-![Alt text](Images\revenue_graph.png)
+![img](Images\revenue_graph.png)
 
 
 
